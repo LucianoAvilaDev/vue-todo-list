@@ -1,6 +1,6 @@
 # Simple ToDo List em Vue.js
 
-- Implementação simples de *Lista de Membros de Banda* para estudo de Vue.js com Javascript
+- Implementação simples de *Lista Tarefas* para estudo de Vue.js com Javascript
 - Vue inserido no projeto pelo CDN
 - Foco em treinar LocalStorage e diretivas de Vue.
 
